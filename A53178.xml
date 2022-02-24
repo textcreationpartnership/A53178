@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon the constitution of the company of the Bank of England with a narrative of some of their late proceedings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53178</idno>
+            <idno type="STC">Wing O115</idno>
+            <idno type="STC">ESTC R223775</idno>
+            <idno type="EEBO-CITATION">99834054</idno>
+            <idno type="PROQUEST">99834054</idno>
+            <idno type="VID">38533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1838:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon the constitution of the company of the Bank of England with a narrative of some of their late proceedings.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38533:1" rendition="simple:additions"/>
+            <head>Obſervations upon the Conſtitution of the Company of the <hi>BANK</hi> of ENGLAND, with a Narrative of ſome of their late Proceedings.</head>
+            <p>THIS Company might be of continuance to Poſterity, and of very great uſe and benefit to the Kingdom and Government, were it ſetled upon juſt and equal Foundations, fenced by Impartial By-Laws; but being Founded in Diviſion without alteration, it will ſoon reſolve into a Faction for Private Advantage, and conſequently not of long duration, to the Prejudice of the Nation, whoſe Benefit will thereby be at an end; for as Union is the Life of Government, ſo Diviſion is Mortal to it.</p>
+            <p>The Company, according to their Printed Liſt, conſiſts of above 1200 Mem<g ref="char:EOLhyphen"/>bers.</p>
+            <p>Inſtead of making Vertue and Merit the Qualifications for Employment, of which the Community are the beſt Judges, theſe 1200 are divided by their Stocks under five ſeveral Qualifications (to wit) thoſe of 4000. 3000. 2000. 500. and under 500 Stock.</p>
+            <p>Out of the Firſt, which is in Number about Fifty, the Choice of the Go<g ref="char:EOLhyphen"/>vernour is confined.</p>
+            <p>Out of the Second, which is in Number about Sixteen, the Deputy may be choſen, but is not capable of Election thereunto under 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Stock.</p>
+            <p>Out of the Third, which is in Number about 100, may be choſe 24 Dire<g ref="char:EOLhyphen"/>ctors, who being added to the Governour and Deputy, is called the Court of Directors, in whom Thirteen being a <hi>Quorum,</hi> is the ſole Management of all the Concerns of the Company; and having engroſſed to themſelves the Choice of all Officers, with their Rewards of Sallaries, do thereby render ſo ſmall a Number ſubject to the Temptation of Corruption.</p>
+            <p>This Court meets once a Week, and then chuſeth a Sub-Committee of Five out of themſelves for the Week following, Three thereof being the <hi>Quorum.</hi>
+            </p>
+            <p>The Fourth Qualification, which is in Number about 600, they being joyned to the three firſt Qualifications, are called a General Court, and allowed Votes in the Choice of Governour, Deputy, and Directors, and colourably to give Sanction to what elſe the Directors pleaſe to bring before them; which Privi<g ref="char:EOLhyphen"/>ledge to the 600 ſignifies little, in that the three firſt Qualifications conſiſting of above 150, holding altogether, as chiefly concerned, and being diligent in their Appearance; this together with their Authority from having the diſpoſing of Places of Profit, will be always an over-balance for the reſt; for many of the 600 thinking little better of themſelves than by-ſtanders, will be careleſs in appearing at General Courts.</p>
+            <p>The Fifth Qualification, to the Number of near 450, are diſqualified ſo much as to any Vote in that called the General Court, but yet qualified and made liable according to their Stocks for the Debts and Damages of the Company, contracted by Miſmanagement or otherwiſe, which ſeems to be againſt Com<g ref="char:EOLhyphen"/>mon Juſtice and Equity, that they ſhould be made liable to Actions for Debts, which they could not have any hand in contracting.</p>
+            <p>Thus of above 1200 Members, there are by the preſent Practice no more than about 150 made capable of any Truſt in the Management of 2400000<abbr>
+                  <hi>l.</hi>
+               </abbr> or more, there being about 450 Members diſabled as to Voting in the General
+<pb n="2" facs="tcp:38533:2" rendition="simple:additions"/>Court, to the end to Engroſs the Management of all into a few Hands, for their Particular Advantage.</p>
+            <p>The Directors were pleaſed to call a General Court to chuſe a Committee to prepare By-Laws, which was compoſed of both Parties <hi>(i. e.)</hi> of the 150 and 600, for under theſe Denominations I underſtand all having Votes in the Company.</p>
+            <p>Some of the firſt were very troubleſome in the Committee, as byaſſed in the promoting the Private Intereſt of the Directors, telling the Committee, they muſt not diſpleaſe them, and refuſing to be ſatisfied except they could have their Wills in behalf of the Directors (as in oppoſing the Yearly falling off of Eight Directors) which ſpent four or five days in Debating, Voting, and, as was thought, the Settling thereof, before ſome would acquieſce; en<g ref="char:EOLhyphen"/>deavouring in that time by Private Sollicitations to make a Party againſt Fal<g ref="char:EOLhyphen"/>ling off, and never gave over their ſtruggle about it, till <hi>One</hi> in behalf of the Directors undertaking to anſwer all the Reaſons for Falling off, was after he had done, told by a Member of the greateſt Authority in the Committee, that he had not anſwered any one of the Reaſons; that then they were Publickly ſi<g ref="char:EOLhyphen"/>lent, but ever after laboured Privately the obtaining their Ends by the General Court, when the Matter ſhould come to them for Confirmation.</p>
+            <p>A General Court was ſummoned for Confirmation of the By-Laws; but be<g ref="char:EOLhyphen"/>fore the entring upon the Work of the Day, it was moved, That the Court might conſiſt of all their Members, as well of thoſe under 500 Stock, as above, and that for theſe Reaſons.</p>
+            <p>Firſt, becauſe all and every Subſcriber and Contributor is by Act of Parlia<g ref="char:EOLhyphen"/>ment Incorporated by the Name of Governour and Company of the Bank of <hi>England,</hi> and that who the Parliament had made Free, the Court could not Diſ<g ref="char:EOLhyphen"/>franchiſe.</p>
+            <p>Secondly, becauſe the Act of Parliament makes all and every Subſcriber and Contributor lyable to the Debts and Damages of the Company, which is not to be ſuppoſed the Parliament intended by ſuch as they thought good to Diſ<g ref="char:EOLhyphen"/>franchiſe; for an Act making thoſe lyable to Debts that could not have any hand in contracting them, ſeems to be againſt common Juſtice and Equity, which cannot be imagined the Parliament would be guilty of.</p>
+            <p>Againſt theſe Reaſons, the King's Commiſſion and Charter were urged, and that they had the Opinion of Council for them in it. To which, with all due Reſpect to the King's Charter, <hi>&amp;c.</hi> it was replyed, That the King in his Laws ſpeaks the Wiſdom of the Nation, and by his Charters the Dictates of thoſe that ſue for them, which may be Selfiſh, for Private Intereſt; and therefore deſired that Council might be Publickly heard; for when Subjects have pub<g ref="char:EOLhyphen"/>liſhed Acts for their Guides, they have no reaſon to forſake them for unpub<g ref="char:EOLhyphen"/>liſhed and ſubſequent Charters, <hi>&amp;c.</hi> But the Motion for making the General Court to conſiſt of all their Members, and hearing Council upon it, was not hearkened unto; however I ſuppoſe this is ſufficient in Anſwer to their alledged Charter, <hi>&amp;c.</hi> For though the Act, <hi>pag.</hi> 344. gives the King Power by his Pa<g ref="char:EOLhyphen"/>tent to appoint Circumſtantial Rules, inſtancing, as an Example, for Transfer<g ref="char:EOLhyphen"/>ring and Aſſigning the Intereſt of Particular Perſons, yet it is obſervable, that the Incorporating Clauſe in <hi>pag.</hi> 344. as well as the Clauſe relating thereunto in <hi>pag.</hi> 350 &amp; 351. follows the Clauſe for Circumſtantial Rules, and do not give the King Power of deſtroying Eſſentials, as in Disfranchiſing thoſe the Sta<g ref="char:EOLhyphen"/>tute hath made Free.</p>
+            <p>The By-Law, making it unlawful for the Governour or Deputy to continue above two Years ſucceſſively, had not the leaſt Oppoſition in the Committee, nor
+<pb n="3" facs="tcp:38533:2"/>was ever ſpoke againſt by any one Member thereof; but becauſe that in ſome meaſure did diſagree with the not falling off of Eight Directors, in that if the Governour and Deputy fall off in two Years, why not eight Directors yearly? The General Court was prepared (though never mentioned before) to except againſt that By-Law, when it ſhould be made uſe of as a Preſident for the other.</p>
+            <p>The great Induſtry of the Directors Friends in the Committee for prevent<g ref="char:EOLhyphen"/>ing the Law for falling off, and after their not prevailing therein, their getting it rejected by the General Court, makes it neceſſary for the Vindication of the Committee, to Publiſh the Reaſons moving them to do what they did, and to leave the Judgment thereof to all unbyaſſed Perſons. Which Reaſons are as followeth:
+<list>
+                  <item>Firſt, Becauſe it is the undoubted Intereſt of the Company, to make as many of their Members as they can qualified for the Service of the Corporation, and not be confined to a few.</item>
+                  <item>Secondly, Becauſe it will beget an Emulation in the Directors to ſignalize their Serviceableneſs to the Company, when their Continuance will depend thereupon.</item>
+                  <item>Thirdly, Becauſe ſhould the Directors agree together to Vote for each other, and engage their Friends to do the ſame, they may in a little time make the Di<g ref="char:EOLhyphen"/>rectorſhip an Office for Life, and then think themſelves the Company's Ma<g ref="char:EOLhyphen"/>ſters, as being the only Perſons neceſſary for their Service, and conſequently expect unreaſonable Rewards, as one of them in Coffee-Houſes began betimes to expreſs himſelf therein.</item>
+                  <item>Fourthly, Becauſe without ſome ſuch Method as this for changing the Dire<g ref="char:EOLhyphen"/>ctors by a Rotation, their Friends may be apt to tell you, you cannot lay them aſide without ungratefully Affronting them, as perhaps they will miſcall it.</item>
+                  <item>Fifthly, Becauſe it will probably preſerve in the Directors a due Reſpect to the Community, and prevent their Lording it over their Fellow-Members, of which they have already given reaſon to be Jealous; for when upon their Diſ<g ref="char:EOLhyphen"/>ſatisfaction the Committee did one day Aſſemble on purpoſe to hear their Ex<g ref="char:EOLhyphen"/>ceptions to what was then before them; and when the Committee was prepa<g ref="char:EOLhyphen"/>red to receive the Directors with all Reſpect, they broke up and went away be<g ref="char:EOLhyphen"/>fore their uſual time, and that without the leaſt Excuſe for ſuch their ſcornful Diſappointment, as if the Committee were their Vaſſals, and owed all their time to them; and one of them aſſumes in Print an Addition, in no kind be<g ref="char:EOLhyphen"/>longing to him otherwiſe than as preſuming a perpetual Directorſhip will give him a Right thereunto.</item>
+               </list>
+            </p>
+            <p>During the ſeveral days Debate about falling off, it was by the Directors Friends inſiſted upon,</p>
+            <p>Firſt, That it was againſt their Liberty, to reſtrain them in their Election, though they know the Conſtitution is a Reſtraint of 5/6 Parts, confining them in their Choice of their chief Officers to leſs than ⅙ Part, of which had they conſidered, they could not have made this Complaint: Beſides, thoſe that know any thing of Government, know that nothing is more ordinary than ſuch Ro<g ref="char:EOLhyphen"/>tations; and the ſame is alſo practiſed by our <hi>Eaſt-India</hi> and <hi>African</hi> Com<g ref="char:EOLhyphen"/>panies.</p>
+            <p>Secondly, That the Committee was not to diſpleaſe the Directors, telling them ſometimes, that they were angry with the Proceedings of the Committee, as if they had been only the Directors Journey-Men, not at Liberty to act their Conſcience in behalf of above 1200 Members, rather than the particular Private Intereſt of 24 Directors: But I do not think they were all guilty of
+<pb n="4" facs="tcp:38533:3"/>this Bandying, but that it proceeded mainly from thoſe of leſt Merit, as be<g ref="char:EOLhyphen"/>ing Jealous of their own Deſerts.</p>
+            <p>The foregoing Reaſons were offered to the General Court, which after ſome Oppoſition by the Directors Friends, as not coming to them by Order of the Committee, were read, and without taking any of them into Debate, the Di<g ref="char:EOLhyphen"/>rectors (contrary to common Equity) not withdrawing in a Matter concern<g ref="char:EOLhyphen"/>ing themſelves (though demanded) their Preſence had that Influence, even upon thoſe who applauded the Reaſons whilſt reading, that when put to the Vote, whether the By-Law for Yearly falling off of eight Directors ſhould be rejected, they durſt not, or at leaſt thought it not Prudence ſo far to offend the Directors, as to give their Vote in the Negative; and according to the pre<g ref="char:EOLhyphen"/>ſent Practice, the Directors being in no danger of change, and having it in their Power to gratifie their Creatures by Places and Sallaries, will be always able to carry in the General Court whatever they pleaſe; and prevent the ma<g ref="char:EOLhyphen"/>king any By-Laws, though never ſo Advantagious for the Publick, if Prejudi<g ref="char:EOLhyphen"/>cial to their Private Intereſt. But I would not be underſtood by any thing here ſaid, to Reflect upon the Directors in general; for it muſt be confeſſed, that ſome of them are Perſons of very great Worth, and of more Honourable Principles, than to be guilty of the Selfiſh Complaints the Committee was forced to encounter.</p>
+            <p>And now upon the whole, whether this Conſtitution excluding for Private Ends near 450 Members all manner of ſhare in the Government, and yet make them lyable to the Debts and Damages of the Company, which (of above 1200 Members) renders all ſave about 150 uncapable of any Truſt; which gives the ſole Management of 2400000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or more, and the choice of Officers, with their Sallaries, to the Court of Directors, ought not to be altered? As alſo whether the Conſtitution is more equal and juſt than when reſtrained, ought not to be laid open to every Subſcriber and Contributor, according to Act of Parliament, without other Qualifications than Vertue and Merit, leaving the Judgment thereof to the Community, who are generally the moſt Impartial Judges, as appears by the City's Elections, which never or rarely failed of a Vertuous Choice, when Arbitrary and Tyrannical Deſigns and Arts do not in<g ref="char:EOLhyphen"/>terpoſe. For though Subſtance may be Security to Private Creditors, nothing leſs than Integrity, Honeſty, and Self-denyal can be ſuch to Government, and the true Intereſt of a Community. Wit and Senſe are neceſſary Qualifications in the Management of Humane Affairs, but without Honeſty they are the more dangerous and miſchievous.</p>
+            <p>I believe this Conſtitution, as it is now ſetled, is an Original not beholding to any Preſident whatſoever. And thus I leave all to the Judgment of the Reader, and thoſe whom it may concern, whether any have Reaſon to value themſelves upon being the Projectors of a Conſtitution ſo unjuſt in reference to near 450, and unequal to above 5/6 Parts of the whole Body, or no.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38533:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
